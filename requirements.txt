@@ -1,0 +1,5 @@
+numpy
+fake-bpy
+opencv-python
+bpy
+mediapipe
